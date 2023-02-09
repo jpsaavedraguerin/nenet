@@ -1,0 +1,2 @@
+-> Make python module usable as cli tool: 
+https://stackoverflow.com/questions/61168583/simplest-way-to-make-a-python-module-usable-as-a-cli-tool
